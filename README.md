@@ -16,7 +16,7 @@ Default values are:
 ***
 
 #### Resources Used 
-1. API used to query exchange rate: https://www.exchangerate-api.com/docs/free?ref=freepublicapis.com
+1. API used to query exchange rate: https://www.exchangerate-api.com/docs/free
 2. Web service used to host: https://dashboard.render.com/
 
  
